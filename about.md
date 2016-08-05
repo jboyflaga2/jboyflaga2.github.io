@@ -8,7 +8,7 @@ I'm Jeremiah (Jboy) Flaga.
 
 I'm a programmer :)
 
-I already experienced being a .NET developer for 4 years.
+I already experienced being a .NET developer for 4 years (as of May 2016).
 
 Someday I would like to be part of a software development team that practices Pair Programming and TDD and is inclined to believe in what they call Software Craftsmanship because I also want to become a software craftsman myself.
 
@@ -16,6 +16,6 @@ I also want to become an expert in computer science and mathematics. But I think
 
 Happy coding!!!
 
-### Contact me
+### Contact me:
 
 [jboyflaga2@gmail.com](mailto:jboyflaga2@gmail.com)

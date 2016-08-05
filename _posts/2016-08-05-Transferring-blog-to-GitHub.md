@@ -9,7 +9,7 @@ I already heard about GitHub Pages a few months ago. During that time, I tried t
 
 But today I was thinking that I do not have to understand everything about Jekyll to start using it.
 
-So I googled for a tutorial on how to create blog using GitHub and found this: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/.
+So I googled for a tutorial on how to create blog using GitHub and found this: [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).
 
 I followed the tutorial and then ta-da!! Here I am now writing using GitHub Pages.
 
