@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Jeremiah (Jboy) Flaga.
 
-### More Information
+I'm a programmer :)
 
-A place to include any other types of information that you'd like to include about yourself.
+I already experienced being a .NET developer for 4 years.
+
+Someday I would like to be part of a software development team that practices Pair Programming and TDD and is inclined to believe in what they call Software Craftsmanship because I also want to become a software craftsman myself.
+
+I also want to become an expert in computer science and mathematics. But I think that will not happen anytime soon. Maybe 200 years from now? :D :D Mind you, I'm still alive during that time. :D :D
+
+Happy coding!!!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jboyflaga2@gmail.com](mailto:jboyflaga2@gmail.com)
